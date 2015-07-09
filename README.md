@@ -11,6 +11,8 @@ NEW FEATURES:
   - ability to turn off following http redirects
 
 Special thanks to: Will Holcomb <wholcomb@gmail.com> and for his excellent
-MultipartPost handler. 
+MultipartPost handler.
+
+Everything else programmed by: Raymond Hernandez
 
 For more of my work go to: www.raysoftinc.com
